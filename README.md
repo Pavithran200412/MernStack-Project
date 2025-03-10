@@ -23,4 +23,8 @@ Client -> Server -> Database
 > Project Title : Hospital Management 
 > Refs : https://medforthospital.com/
 
->
+>Display types
+
+> CSS Animations 
+> CSS :hover Pseudo-class
+> Responsive Web Design - Media Queries
