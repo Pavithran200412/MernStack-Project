@@ -28,3 +28,11 @@ Client -> Server -> Database
 > CSS Animations 
 > CSS :hover Pseudo-class
 > Responsive Web Design - Media Queries
+
+
+1 -- assits     -> css(font, common, external) , image (all images)
+2 -- compounts  ->
+3 -- pages      ->
+4 -- routes     ->
+5 -- utils      ->
+6 -- app.js 
